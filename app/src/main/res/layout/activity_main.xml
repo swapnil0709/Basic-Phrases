@@ -22,7 +22,7 @@
             android:background="#aeea00"
             android:gravity="fill"
             android:onClick="play"
-            android:tag="1"
+            android:tag="doyouspeakenglish"
             android:text="Do you speak \nenglish?"
             app:layout_columnWeight="1"
             app:layout_rowWeight="1" />
@@ -33,7 +33,7 @@
             android:background="#ffca28"
             android:gravity="fill"
             android:onClick="play"
-            android:tag="2"
+            android:tag="goodevening"
             android:text="Good evening"
             app:layout_columnWeight="1"
             app:layout_rowWeight="1" />
@@ -45,7 +45,7 @@
             android:background="#ff5722"
             android:gravity="fill"
             android:onClick="play"
-            android:tag="3"
+            android:tag="hello"
             android:text="Hello"
             app:layout_columnWeight="1"
             app:layout_rowWeight="1" />
@@ -57,7 +57,7 @@
             android:background="#ff9800"
             android:gravity="fill"
             android:onClick="play"
-            android:tag="4"
+            android:tag="howareyou"
             android:text="How are you"
             app:layout_columnWeight="1"
             app:layout_rowWeight="1" />
@@ -69,7 +69,7 @@
             android:background="#4dd0e1"
             android:gravity="fill"
             android:onClick="play"
-            android:tag="5"
+            android:tag="ilivein"
             android:text="I live in"
             app:layout_columnWeight="1"
             app:layout_rowWeight="1" />
@@ -81,7 +81,7 @@
             android:background="#ff5252"
             android:gravity="fill"
             android:onClick="play"
-            android:tag="6"
+            android:tag="mynameis"
             android:text="My name is"
             app:layout_columnWeight="1"
             app:layout_rowWeight="1" />
@@ -93,7 +93,7 @@
             android:background="#aa00ff"
             android:gravity="fill"
             android:onClick="play"
-            android:tag="7"
+            android:tag="please"
             android:text="Please"
             app:layout_columnWeight="1"
             app:layout_rowWeight="1" />
@@ -105,7 +105,7 @@
             android:background="#ffff00"
             android:gravity="fill"
             android:onClick="play"
-            android:tag="8"
+            android:tag="welcome"
             android:text="Welcome"
             app:layout_columnWeight="1"
             app:layout_rowWeight="1" />
